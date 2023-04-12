@@ -1,6 +1,6 @@
 # IBRD Loans Analysis
 
-This project aims to analyze the loans data from the International Bank for Reconstruction and Development (IBRD), which is a part of the World Bank Group. The data covers the period from 1947 to 2022 and includes information on loan types, amounts, interest rates, repayment status, borrower’s obligations, and more. The analysis is done using Python and Power BI.
+This project aims to analyse the loans data from the International Bank for Reconstruction and Development (IBRD), which is a part of the World Bank Group. The data covers the period from 1947 to 2022 and includes information on loan types, amounts, interest rates, repayment status, borrower’s obligations, and more. The analysis is done using Python and Power BI.
 
 ## Key Findings
 
