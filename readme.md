@@ -31,7 +31,7 @@ The undisbursed amount of loans was very low until 2010, indicating that most lo
 The code for this project is written in Python and can be found in ibrd_loans_analysis.py file. The code performs data cleaning, transformation, aggregation, and analysis using pandas and seaborn libraries.
 The visualization for this project is created using Power BI. It consists of several charts and tables that show various aspects of the loans data.
 
-### Data source:
+### Data sources:
 
-https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3
+https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3  
 https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-of-Loans-Latest-Available-Snapshot/sfv5-tf7p
